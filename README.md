@@ -1,4 +1,9 @@
 # cpi-latam
+[![PyPI version fury.io](https://badge.fury.io/py/cpilatam.svg)](https://pypi.python.org/pypi/cpilatam/)
+[![PyPI download month](https://img.shields.io/pypi/dm/cpilatam.svg)](https://pypi.python.org/pypi/cpilatam/)
+[![GitHub license](https://img.shields.io/github/license/stgoa/cpi-latam.svg)](https://github.com/stgoa/cpi-latam/blob/main/LICENSE)
+[![Passing](https://github.com/stgoa/cpi-latam/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/stgoa/cpi-latam/actions/workflows/ci.yml)
+
 `cpi-latam` is a Python library designed to simplify the retrieval of Consumer Price Index (CPI) values from the central banks of countries in Latin America
 
 Available countries:
